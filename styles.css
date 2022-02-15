@@ -63,7 +63,7 @@ main {
 
 .modal {
   display: flex;
-  background: white;
+  background: rgb(49, 121, 255);
   width: 480px;
   border-radius: 10px;
   padding: 10px;
@@ -144,9 +144,9 @@ button {
 
 
 button.continue {
-  background: royalblue;
-  border: 1px solid royalblue;
-  color: white;
+  background: white;
+  border: 1px solid #ddd;
+  color: royalblue;
 }
 
 button.cancel {
