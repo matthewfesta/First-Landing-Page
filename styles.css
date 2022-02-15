@@ -2,6 +2,8 @@
     border: 1px solid black;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Space+Mono&display=swap');
+
 body {
     background-color: black;
     font-family: 'Roboto', monospace, sans-serif;
